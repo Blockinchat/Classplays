@@ -1,1 +1,1 @@
-<iframe src="https://math-for-dummies.github.io/g" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="0" marginheight="0px" marginwidth="0px" height="1515px" width="851px" allowfullscreen></iframe>
+<iframe src="https://math-for-dummies.github.io/g" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="0" marginheight="151px" marginwidth="851px" height="1515px" width="851px" allowfullscreen></iframe>
